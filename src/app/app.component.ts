@@ -14,10 +14,19 @@ export class AppComponent {
     {
       label: 'Página inicial',
       path: '/'
+    },{
+      label: 'Dashboard',
+      path: '/dashboard'
     },
     {
       label: 'Produtos',
       path: '/produtos'
+    },{
+      label: 'Carrinho',
+      path: '/cart'
+    },{
+      label: 'Tabela',
+      path: '/table'
     },{
       label: 'Contato',
       path: '/contato'
